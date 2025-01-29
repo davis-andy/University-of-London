@@ -1,0 +1,4 @@
+A
+Na2, Ne2, Ne4, Kc5
+Na1, Kb3, Nb4 
+

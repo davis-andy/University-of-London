@@ -1,0 +1,4 @@
+A
+Qa2, Qe2, Qe4, Kc5
+Qa1, Kb3, Qb4
+
